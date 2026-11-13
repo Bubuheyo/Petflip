@@ -1,0 +1,14 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Menu_inicial.uss?fileID=7433441132597879392&amp;guid=af1e6e2042b6ec54e8cd152285fa1dde&amp;type=3#Menu_inicial"/>
+    <ui:VisualElement style="flex-grow: 1; background-image: url(&quot;project://database/Assets/background.png?fileID=2800000&amp;guid=46dae781f6e41ea41a231b6cbdd86589&amp;type=3#background&quot;); -unity-background-image-tint-color: rgb(171, 96, 31);">
+        <ui:VisualElement style="flex-grow: 1;">
+            <ui:Label text="PET FLIP" style="height: 34px; -unity-font-definition: url(&quot;project://database/Assets/LondrinaSolid-Regular.ttf?fileID=12800000&amp;guid=55ab3024be14ab844b5a05567e4a5700&amp;type=3#LondrinaSolid-Regular&quot;); font-size: 60px; -unity-text-align: middle-center; white-space: pre;"/>
+        </ui:VisualElement>
+        <ui:VisualElement style="flex-grow: 1; height: 68%; flex-direction: column-reverse;">
+            <ui:Image source="project://database/Assets/Gataralho%20do%20karilho.png?fileID=2800000&amp;guid=e0523a90eb080aa46af3b806c4a83a94&amp;type=3#Gataralho do karilho" scale-mode="ScaleToFit" style="height: auto;"/>
+        </ui:VisualElement>
+        <ui:VisualElement style="flex-grow: 1; height: 19%;">
+            <ui:Button text="Jogar" name="Jogar" selectable="false" focusable="false" style="height: 86px; background-color: rgb(5, 4, 4); border-top-color: rgb(137, 137, 137); border-left-color: rgb(137, 137, 137); border-right-color: rgb(137, 137, 137); border-bottom-color: rgb(137, 137, 137); color: rgb(255, 255, 255); -unity-font-definition: url(&quot;project://database/Assets/LondrinaSolid-Black.ttf?fileID=12800000&amp;guid=f0d0ccadf1e6142469e7c97c78ecf68e&amp;type=3#LondrinaSolid-Black&quot;); font-size: 30%;"/>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
