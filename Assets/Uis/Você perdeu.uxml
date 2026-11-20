@@ -1,0 +1,11 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Tela%20final.uss?fileID=7433441132597879392&amp;guid=188a5fecdd40f124abbd8e5b51a38f37&amp;type=3#Tela final"/>
+    <ui:VisualElement style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Imagens/Frame%205.png?fileID=2800000&amp;guid=5c00892f36664bc4796f9f5d126d1fbe&amp;type=3#Frame 5&quot;);">
+        <ui:VisualElement name="VisualElement" style="flex-grow: 1;">
+            <ui:Image source="project://database/Assets/Imagens/ACABARAM%20SEUS%20MOVIMENTOS%20DI%C3%81RIOS!.png?fileID=2800000&amp;guid=cf9416ddaa1054c45be384d74ca0604d&amp;type=3#ACABARAM SEUS MOVIMENTOS DIÁRIOS!" style="height: 276px; bottom: -8%;"/>
+        </ui:VisualElement>
+        <ui:VisualElement style="flex-grow: 1;">
+            <ui:Button text="Voltar a tela inicial" name="Sair" style="background-image: url(&quot;project://database/Assets/Imagens/Bot%C3%A3o.png?fileID=2800000&amp;guid=e9928a967d37e9346bc17f62be19f931&amp;type=3#Botão&quot;); background-color: rgba(188, 188, 188, 0); border-left-color: rgba(149, 149, 149, 0); border-right-color: rgba(149, 149, 149, 0); border-top-color: rgba(149, 149, 149, 0); border-bottom-color: rgba(149, 149, 149, 0); background-size: 88% 107%; -unity-font-definition: url(&quot;project://database/Assets/LondrinaSolid-Black.ttf?fileID=12800000&amp;guid=f0d0ccadf1e6142469e7c97c78ecf68e&amp;type=3#LondrinaSolid-Black&quot;); font-size: 24px; color: rgb(255, 255, 255);"/>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

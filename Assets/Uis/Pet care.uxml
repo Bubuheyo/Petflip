@@ -1,0 +1,23 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Pet%20care.uss?fileID=7433441132597879392&amp;guid=a467f4729cd2f0a48b3897f41e66c594&amp;type=3#Pet care"/>
+    <ui:VisualElement style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Imagens/Frame%203.png?fileID=2800000&amp;guid=a539b0d2345595e4c90581e9eeeaa931&amp;type=3#Frame 3&quot;); -unity-background-image-tint-color: rgb(255, 255, 255);">
+        <ui:VisualElement style="flex-grow: 1;">
+            <ui:Label text="Cuidar do pet" style="background-color: rgb(0, 0, 0); -unity-font-definition: url(&quot;project://database/Assets/LondrinaSolid-Regular.ttf?fileID=12800000&amp;guid=55ab3024be14ab844b5a05567e4a5700&amp;type=3#LondrinaSolid-Regular&quot;); color: rgb(255, 255, 255); height: 40px; width: 59%; top: 21%; right: -21%; border-left-color: rgb(255, 255, 255); border-right-color: rgb(255, 255, 255); border-top-color: rgb(255, 255, 255); border-bottom-color: rgb(255, 255, 255); -unity-text-align: middle-center; white-space: nowrap; font-size: 30px;"/>
+            <ui:Button text="" name="Sair" style="background-image: url(&quot;project://database/Assets/Imagens/Seta%20sair.png?fileID=2800000&amp;guid=089c07f1399a25341bc2ba58eda0d026&amp;type=3#Seta sair&quot;); background-color: rgba(188, 188, 188, 0); border-left-color: rgba(149, 149, 149, 0); border-right-color: rgba(149, 149, 149, 0); border-top-color: rgba(149, 149, 149, 0); border-bottom-color: rgba(149, 149, 149, 0); width: 17%; -unity-text-align: middle-center; white-space: nowrap; top: -40px; left: 278px; height: 53%;"/>
+        </ui:VisualElement>
+        <ui:VisualElement style="flex-grow: 1; height: 39%;">
+            <ui:Image source="project://database/Assets/Imagens/Gataralho%20do%20karilho.png?fileID=2800000&amp;guid=e0523a90eb080aa46af3b806c4a83a94&amp;type=3#Gataralho do karilho" style="height: 210px;"/>
+        </ui:VisualElement>
+        <ui:VisualElement style="flex-grow: 1; align-self: auto; justify-content: center; align-items: center; flex-direction: row;">
+            <ui:Button text="" style="border-left-color: rgba(149, 149, 149, 0); border-right-color: rgba(149, 149, 149, 0); border-top-color: rgba(149, 149, 149, 0); border-bottom-color: rgba(149, 149, 149, 0); background-color: rgba(188, 188, 188, 0); background-image: url(&quot;project://database/Assets/Imagens/Circle.png?fileID=2800000&amp;guid=191d0071e53d5944c912867e17231bf6&amp;type=3#Circle&quot;);">
+                <ui:Image source="project://database/Assets/Imagens/abb8a6aec820f8ca63e12db2a4adfbe93c1c4dcb%20(1).png?fileID=2800000&amp;guid=deb61c29535c74c4fadc06056e3483b3&amp;type=3#abb8a6aec820f8ca63e12db2a4adfbe93c1c4dcb (1)" style="height: 51px; width: 44px;"/>
+            </ui:Button>
+            <ui:Button text="" style="border-left-color: rgba(149, 149, 149, 0); border-right-color: rgba(149, 149, 149, 0); border-top-color: rgba(149, 149, 149, 0); border-bottom-color: rgba(149, 149, 149, 0); background-color: rgba(188, 188, 188, 0); background-image: url(&quot;project://database/Assets/Imagens/Circle.png?fileID=2800000&amp;guid=191d0071e53d5944c912867e17231bf6&amp;type=3#Circle&quot;);">
+                <ui:Image source="project://database/Assets/Imagens/5a308a3ecd0e717565d841b60d4f100ada7645d9.png?fileID=2800000&amp;guid=d1684367ef14a6e4da39281d3322055d&amp;type=3#5a308a3ecd0e717565d841b60d4f100ada7645d9"/>
+            </ui:Button>
+            <ui:Button text="" style="border-left-color: rgba(149, 149, 149, 0); border-right-color: rgba(149, 149, 149, 0); border-top-color: rgba(149, 149, 149, 0); border-bottom-color: rgba(149, 149, 149, 0); background-color: rgba(188, 188, 188, 0); background-image: url(&quot;project://database/Assets/Imagens/Circle.png?fileID=2800000&amp;guid=191d0071e53d5944c912867e17231bf6&amp;type=3#Circle&quot;);">
+                <ui:Image source="project://database/Assets/Imagens/b797f53f3c85d943cd61debf22e455fb2043c94a.png?fileID=2800000&amp;guid=e8d4a7110f8f93a4fa12bea63c9b73c6&amp;type=3#b797f53f3c85d943cd61debf22e455fb2043c94a"/>
+            </ui:Button>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
