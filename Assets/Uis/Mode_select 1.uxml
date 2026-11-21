@@ -1,0 +1,22 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/mode_select.uss?fileID=7433441132597879392&amp;guid=06f1812838d2cb848891b862f0074a22&amp;type=3#mode_select"/>
+    <ui:VisualElement style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Imagens/Frame%202.png?fileID=2800000&amp;guid=17fbbf48cca441c4596556b2c182a745&amp;type=3#Frame 2&quot;); -unity-background-image-tint-color: rgb(255, 255, 255);">
+        <ui:VisualElement style="flex-grow: 1; height: 36%; background-size: 100% 100%;">
+            <ui:Button text="" name="Desafio1" style="height: 30%; -unity-font-definition: url(&quot;project://database/Assets/LondrinaSolid-Black.ttf?fileID=12800000&amp;guid=f0d0ccadf1e6142469e7c97c78ecf68e&amp;type=3#LondrinaSolid-Black&quot;); color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0); border-left-color: rgba(255, 255, 255, 0); border-right-color: rgba(255, 255, 255, 0); border-top-color: rgba(255, 255, 255, 0); border-bottom-color: rgba(255, 255, 255, 0); font-size: 25px; background-image: url(&quot;project://database/Assets/Imagens/Bot%C3%A3o.png?fileID=2800000&amp;guid=e9928a967d37e9346bc17f62be19f931&amp;type=3#Botão&quot;); -unity-background-image-tint-color: rgb(143, 243, 49); bottom: -30px;">
+                <ui:Label text="Desafio Diário" style="height: 27px;"/>
+                <ui:Label text="Complete um desafio novo por dia!" style="font-size: 14px;"/>
+            </ui:Button>
+            <ui:Button text="" style="height: 30%; -unity-font-definition: url(&quot;project://database/Assets/LondrinaSolid-Black.ttf?fileID=12800000&amp;guid=f0d0ccadf1e6142469e7c97c78ecf68e&amp;type=3#LondrinaSolid-Black&quot;); color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0); border-left-color: rgba(255, 255, 255, 0); border-right-color: rgba(255, 255, 255, 0); border-top-color: rgba(255, 255, 255, 0); border-bottom-color: rgba(255, 255, 255, 0); font-size: 25px; background-image: url(&quot;project://database/Assets/Imagens/Bot%C3%A3o.png?fileID=2800000&amp;guid=e9928a967d37e9346bc17f62be19f931&amp;type=3#Botão&quot;); -unity-background-image-tint-color: rgb(143, 243, 49); bottom: -35px;">
+                <ui:Label text="Desafio Infinito" style="height: 30px;"/>
+                <ui:Label text="Teste suas habilidades e vá o quão longe você conseguir" style="font-size: 14px;"/>
+            </ui:Button>
+            <ui:Button text="" name="Cuidar" style="height: 30%; -unity-font-definition: url(&quot;project://database/Assets/LondrinaSolid-Black.ttf?fileID=12800000&amp;guid=f0d0ccadf1e6142469e7c97c78ecf68e&amp;type=3#LondrinaSolid-Black&quot;); color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0); border-left-color: rgba(255, 255, 255, 0); border-right-color: rgba(255, 255, 255, 0); border-top-color: rgba(255, 255, 255, 0); border-bottom-color: rgba(255, 255, 255, 0); font-size: 25px; background-image: url(&quot;project://database/Assets/Imagens/Bot%C3%A3o.png?fileID=2800000&amp;guid=e9928a967d37e9346bc17f62be19f931&amp;type=3#Botão&quot;); -unity-background-image-tint-color: rgb(143, 243, 49); bottom: -40px;">
+                <ui:Label text="Cuidar do pet" style="height: 32px;"/>
+                <ui:Label text="Deixe seu parceiro feliz!" style="font-size: 14px;"/>
+            </ui:Button>
+        </ui:VisualElement>
+        <ui:VisualElement style="flex-grow: 1; background-size: 100% 99%; height: 0%;">
+            <ui:Image source="project://database/Assets/Imagens/Gataralho%20do%20karilho.png?fileID=2800000&amp;guid=e0523a90eb080aa46af3b806c4a83a94&amp;type=3#Gataralho do karilho" style="height: 214px;"/>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
