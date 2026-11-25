@@ -176,6 +176,14 @@ PrefabInstance:
       value: Mode_select
       objectReference: {fileID: 0}
     - target: {fileID: 5934248615347235262, guid: 9bc1d4b624f233242861aee52623fb3a, type: 3}
+      propertyPath: buttons.Array.data[0].Openmenu
+      value: 
+      objectReference: {fileID: 1216842643}
+    - target: {fileID: 5934248615347235262, guid: 9bc1d4b624f233242861aee52623fb3a, type: 3}
+      propertyPath: buttons.Array.data[1].Openmenu
+      value: 
+      objectReference: {fileID: 1222639416}
+    - target: {fileID: 5934248615347235262, guid: 9bc1d4b624f233242861aee52623fb3a, type: 3}
       propertyPath: buttons.Array.data[0].menuToOpen
       value: 
       objectReference: {fileID: 1216842643}
@@ -236,6 +244,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2892983101086970280, guid: fb1e5be8e7887754288c99c891ed5d7f, type: 3}
+      propertyPath: buttons.Array.data[0].Openmenu
+      value: 
+      objectReference: {fileID: 135725738}
     - target: {fileID: 2892983101086970280, guid: fb1e5be8e7887754288c99c891ed5d7f, type: 3}
       propertyPath: buttons.Array.data[0].menuToOpen
       value: 
@@ -310,6 +322,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pet_Care
       objectReference: {fileID: 0}
+    - target: {fileID: 8057793886399118406, guid: 16a61b2d5e86e7a49903f972893e6421, type: 3}
+      propertyPath: buttons.Array.data[0].Openmenu
+      value: 
+      objectReference: {fileID: 135725738}
     - target: {fileID: 8057793886399118406, guid: 16a61b2d5e86e7a49903f972893e6421, type: 3}
       propertyPath: buttons.Array.data[0].menuToOpen
       value: 
@@ -394,6 +410,10 @@ PrefabInstance:
       value: "Voc\xEA venceu"
       objectReference: {fileID: 0}
     - target: {fileID: 3531936927969703140, guid: 7328bab074dcdb14682b4678f0909960, type: 3}
+      propertyPath: buttons.Array.data[0].Openmenu
+      value: 
+      objectReference: {fileID: 135725738}
+    - target: {fileID: 3531936927969703140, guid: 7328bab074dcdb14682b4678f0909960, type: 3}
       propertyPath: buttons.Array.data[0].menuToOpen
       value: 
       objectReference: {fileID: 135725738}
@@ -450,6 +470,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1242176880749124937, guid: c4be7fa53c2385849968d6e13f678973, type: 3}
+      propertyPath: buttons.Array.data[0].Openmenu
+      value: 
+      objectReference: {fileID: 135725738}
     - target: {fileID: 1242176880749124937, guid: c4be7fa53c2385849968d6e13f678973, type: 3}
       propertyPath: buttons.Array.data[0].menuToOpen
       value: 
@@ -565,6 +589,26 @@ PrefabInstance:
       propertyPath: sourceAsset
       value: 
       objectReference: {fileID: 9197481963319205126, guid: 1e39c52e30b1d8f46b74b0e1563f7665, type: 3}
+    - target: {fileID: 7056859263596892191, guid: c271be25c064ca341889c832832bf85e, type: 3}
+      propertyPath: buttons.Array.data[0].Openmenu
+      value: 
+      objectReference: {fileID: 1894001526}
+    - target: {fileID: 7056859263596892191, guid: c271be25c064ca341889c832832bf85e, type: 3}
+      propertyPath: buttons.Array.data[1].Openmenu
+      value: 
+      objectReference: {fileID: 135725738}
+    - target: {fileID: 7056859263596892191, guid: c271be25c064ca341889c832832bf85e, type: 3}
+      propertyPath: buttons.Array.data[2].Openmenu
+      value: 
+      objectReference: {fileID: 2060471165}
+    - target: {fileID: 7056859263596892191, guid: c271be25c064ca341889c832832bf85e, type: 3}
+      propertyPath: buttons.Array.data[3].Openmenu
+      value: 
+      objectReference: {fileID: 619943180}
+    - target: {fileID: 7056859263596892191, guid: c271be25c064ca341889c832832bf85e, type: 3}
+      propertyPath: buttons.Array.data[0].closeMenu
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7056859263596892191, guid: c271be25c064ca341889c832832bf85e, type: 3}
       propertyPath: buttons.Array.data[0].menuToOpen
       value: 
